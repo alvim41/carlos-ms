@@ -60,7 +60,7 @@ const Benefits = ({
   buttonUrl = "https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas.",
 }: Feature43Props) => {
   return (
-    <section className="py-32">
+    <section className="py-32" id="nossas">
       <div className="container">
         {title && (
           <div className="mx-auto mb-16 max-w-3xl text-center">

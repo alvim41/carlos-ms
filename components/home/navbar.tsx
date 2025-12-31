@@ -56,11 +56,11 @@ const Navbar = ({
   menu = [
     {
       title: "Nossas Mudas",
-      url: "/",
+      url: "#nossas",
     },
     {
       title: "Como Funciona",
-      url: "/",
+      url: "#process",
     },
     {
       title: "Sobre Nós",
