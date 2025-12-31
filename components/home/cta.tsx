@@ -24,7 +24,7 @@ const Cta = ({
   buttons = {
     primary: {
       text: "Solicitar Orçamento",
-      url: "https://wa.me/5599999999999",
+      url: "https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas.",
     },
   },
   className,

@@ -57,7 +57,7 @@ const Benefits = ({
     },
   ],
   buttonText = "Solicitar Orçamento",
-  buttonUrl = "/",
+  buttonUrl = "https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas.",
 }: Feature43Props) => {
   return (
     <section className="py-32">

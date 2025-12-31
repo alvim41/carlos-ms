@@ -1,7 +1,5 @@
-import { Asterisk, CornerDownRight } from "lucide-react";
+import { Asterisk } from "lucide-react";
 import React from "react";
-
-import { Button } from "@/components/ui/button";
 
 const Process = () => {
   const process = [
@@ -44,13 +42,6 @@ const Process = () => {
               Um processo simples para adquirir e plantar suas mudas com
               segurança.
             </p>
-            <Button
-              variant="ghost"
-              className="flex items-center justify-start gap-2"
-            >
-              <CornerDownRight className="text-green-500" />
-              Solicitar Orçamento
-            </Button>
           </div>
           <ul className="lg:pl-22 relative col-span-4 w-full">
             {process.map((step, index) => (

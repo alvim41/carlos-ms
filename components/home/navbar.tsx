@@ -72,7 +72,7 @@ const Navbar = ({
     },
   ],
   contact = {
-    whatsapp: { title: "Solicitar Orçamento", url: "https://wa.me/your-number" },
+    whatsapp: { title: "Solicitar Orçamento", url: "https://wa.me/5517988230597?text=Olá! Gostaria de saber valores e disponibilidade de mudas." },
   },
 }: NavbarProps) => {
   return (
